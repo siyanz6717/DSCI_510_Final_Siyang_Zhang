@@ -27,7 +27,7 @@ We collect data by scraping **Numbeo.com**, extracting indices for Cost of Livin
   ├── get_data.py
   ├── run_analysis.py
   ├── utils/
-  └── visualize_results.ipynb
+  └── visualize_results.ipynb```
 
 ## Installation and Setup
 
@@ -38,7 +38,7 @@ Ensure you have Python 3.8+ installed as well as the libraries in requirement.tx
 Run the following command in your terminal to create a virtual environment named `venv`:
 
 ```bash
-python3 -m venv venv
+python3 -m venv venv```
 
 ### Install Required Libraries
 Once the virtual environment is activated, install all external libraries (Requests, BeautifulSoup, Pandas, Matplotlib, Seaborn) using the requirements file.
@@ -47,7 +47,7 @@ Once the virtual environment is activated, install all external libraries (Reque
 You will need to create the same directory as the repo does in order to run the script.
 
 ### Run the script
-Run the script in order of get_daya.py, clean_data.py, run_analysis.py, visualize_results.ipynb.
+Run the script in order of `get_daya.py`, `clean_data.py`, `run_analysis.py`, `visualize_results.ipynb`.
 
 ### Find the results in the created 'results' folder
 After running the code, you can check results in 'results' folder.
