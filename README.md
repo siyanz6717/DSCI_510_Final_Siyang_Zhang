@@ -20,7 +20,10 @@ We collect data by scraping **Numbeo.com**, extracting indices for Cost of Livin
   └── raw/
 ├── project_proposal.pdf
 ├── results/
-  ├── other result files
+  ├── analysis_summary.txt
+  ├── bar_top_10_value.png
+  ├── heatmap_correlation.png
+  ├── scatter_cost_quality.png
   └── final_report.pdf
 └── src/
   ├── clean_data.py
