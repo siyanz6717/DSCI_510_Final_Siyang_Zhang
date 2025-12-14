@@ -22,9 +22,6 @@ DSCI_510_Final_Siyang_Zhang/
 ├── project_proposal.pdf
 ├── results/
   ├── analysis_summary.txt
-  ├── bar_top_10_value.png
-  ├── heatmap_correlation.png
-  ├── scatter_cost_quality.png
   └── final_report.pdf
 └── src/
   ├── clean_data.py
