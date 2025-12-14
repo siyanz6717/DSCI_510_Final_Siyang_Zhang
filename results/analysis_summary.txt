@@ -1,0 +1,29 @@
+Geo-Arbitrage Analysis Report
+
+Correlation Analysis (Rent vs. Safety)
+Correlation Coefficient: 0.0489
+Interpretation: Weak correlation.
+
+Regional Analysis (Average Geo-Arbitrage Score)
+Region
+Asia                   4.414579
+Africa                 3.769970
+South/Latin America    3.201899
+Other                  3.012040
+Oceania                2.766549
+Europe                 2.663522
+North America          2.428583
+
+Outlier Analysis (Residuals)
+Top 5 'Undervalued' Cities (High Quality for the Price):
+Valencia, Spain (Region: Europe): Score 4.08
+The Hague (Den Haag), Netherlands (Region: Europe): Score 3.12
+Hyderabad, India (Region: Asia): Score 7.62
+Plzen, Czech Republic (Region: Other): Score 3.87
+Muscat, Oman (Region: Other): Score 4.24
+Top 5 'Overvalued' Cities (Low Quality for the Price):
+Manila, Philippines (Region: Other): Score 1.48
+Colombo, Sri Lanka (Region: Other): Score 1.58
+New York, NY, United States (Region: North America): Score 1.35
+Caracas, Venezuela (Region: Other): Score 1.76
+Beirut, Lebanon (Region: Other): Score 1.78

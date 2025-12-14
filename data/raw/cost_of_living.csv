@@ -1,0 +1,413 @@
+Rank,City,Cost of Living Index,Rent Index,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index
+,"Zug, Switzerland",127.8,87.3,109.8,111.0,137.2,122.9
+,"Zurich, Switzerland",121.3,71.8,99.3,117.5,121.3,157.2
+,"Geneva, Switzerland",118.5,66.6,95.4,113.1,121.5,150.0
+,"Basel, Switzerland",114.7,48.8,85.4,109.1,119.9,176.0
+,"Lausanne, Switzerland",113.4,52.3,86.2,107.7,119.0,157.8
+,"Bern, Switzerland",110.2,50.4,83.6,105.8,108.8,166.4
+,"Reykjavik, Iceland",101.1,50.6,78.6,104.7,112.4,101.0
+,"New York, NY, United States",100.0,100.0,100.0,100.0,100.0,100.0
+,"San Francisco, CA, United States",97.8,80.3,90.0,99.5,108.9,148.7
+,"Honolulu, HI, United States",96.8,63.7,82.1,113.4,90.2,94.2
+,"Seattle, WA, United States",92.3,61.4,78.6,98.4,95.9,154.8
+,"Oslo, Norway",90.9,39.8,68.2,89.6,98.6,107.1
+,"Tel Aviv-Yafo, Israel",90.9,45.6,70.7,79.4,98.3,105.2
+,"Washington, DC, United States",88.1,70.4,80.2,87.5,95.4,141.5
+,"Singapore, Singapore",87.8,74.0,81.6,76.1,54.9,103.9
+,"San Jose, CA, United States",87.7,75.4,82.2,89.8,86.1,129.9
+,"London, United Kingdom",87.4,70.2,79.7,67.2,89.3,110.0
+,"Boston, MA, United States",87.2,78.9,83.5,90.4,91.3,135.0
+,"Copenhagen, Denmark",86.8,46.9,69.1,77.5,100.0,133.2
+,"Trondheim, Norway",86.0,30.6,61.4,86.7,90.1,121.3
+,"Bergen, Norway",84.5,29.1,59.9,83.3,92.0,123.6
+,"Amsterdam, Netherlands",84.4,60.6,73.9,71.3,94.5,124.8
+,"San Diego, CA, United States",83.0,77.1,80.4,80.1,89.8,125.0
+,"Stavanger, Norway",82.7,37.8,62.7,83.4,87.9,135.0
+,"Los Angeles, CA, United States",82.3,65.1,74.6,85.6,88.3,110.0
+,"Jerusalem, Israel",81.8,40.6,63.4,71.2,84.7,102.7
+,"Luxembourg, Luxembourg",81.6,55.8,70.1,77.7,90.7,141.1
+,"Haarlem, Netherlands",80.5,43.6,64.1,70.2,93.2,110.9
+,"Sacramento, CA, United States",80.2,49.7,66.6,86.2,73.8,124.6
+,"Miami, FL, United States",80.1,70.1,75.7,79.5,98.9,101.4
+,"Philadelphia, PA, United States",79.7,45.3,64.4,83.2,78.6,123.6
+,"Stockholm, Sweden",79.6,36.3,60.3,71.9,83.7,114.0
+,"Aarhus, Denmark",79.5,34.1,59.3,70.3,95.1,142.3
+,"Breda, Netherlands",79.4,34.1,59.3,71.8,94.0,134.9
+,"Paris, France",79.4,42.6,63.1,77.5,75.2,116.3
+,"Haifa, Israel",79.1,24.3,54.8,75.5,87.6,119.9
+,"New Orleans, LA, United States",78.2,41.2,61.7,77.0,98.4,116.8
+,"Nijmegen, Netherlands",77.9,35.5,59.0,66.9,89.0,103.0
+,"Utrecht, Netherlands",77.8,44.7,63.1,68.9,80.2,129.5
+,"Dublin, Ireland",77.1,60.8,69.9,71.3,87.0,113.4
+,"Chicago, IL, United States",76.8,56.3,67.7,81.8,80.8,144.9
+,"Munich, Germany",76.6,47.2,63.5,62.7,79.5,142.7
+,"Atlanta, GA, United States",76.1,44.9,62.2,83.1,84.2,154.0
+,"Portland, OR, United States",76.1,49.0,64.0,80.4,74.3,145.8
+,"Denver, CO, United States",76.0,51.1,64.9,80.3,74.5,145.3
+,"Oxford, United Kingdom",75.9,49.0,63.9,66.8,84.0,109.0
+,"Hong Kong, Hong Kong (China)",75.7,64.6,70.8,74.5,51.6,93.6
+,"Strasbourg, France",75.6,23.1,52.2,87.0,68.8,107.4
+,"Rotterdam, Netherlands",75.4,41.4,60.3,66.7,82.2,122.6
+,"Frankfurt, Germany",75.2,36.9,58.1,66.1,76.9,156.3
+,"Delft, Netherlands",75.1,40.2,59.6,70.0,87.2,109.7
+,"Helsinki, Finland",75.0,30.3,55.1,69.9,82.2,118.2
+,"Sydney, Australia",75.0,54.5,65.9,78.2,67.0,114.9
+,"Vienna, Austria",74.9,29.7,54.8,73.6,75.3,129.4
+,"Dusseldorf, Germany",74.8,34.1,56.7,64.8,76.8,139.3
+,"Brighton, United Kingdom",74.6,43.6,60.8,67.0,77.6,106.5
+,"Trier, Germany",74.6,20.1,50.3,66.3,75.8,105.9
+,"Cambridge, United Kingdom",74.5,46.2,61.9,65.1,82.2,118.6
+,"Milan, Italy",74.2,42.6,60.2,70.1,79.0,76.3
+,"Brussels, Belgium",74.2,33.7,56.2,71.7,88.7,118.9
+,"Heidelberg, Germany",74.0,33.6,56.0,67.8,69.0,111.2
+,"Colorado Springs, CO, United States",73.8,40.3,58.9,75.7,77.2,132.7
+,"Dallas, TX, United States",73.8,46.2,61.5,74.8,72.5,142.2
+,"Gent, Belgium",73.5,27.2,52.9,68.7,89.6,117.4
+,"Edinburgh, United Kingdom",73.3,38.3,57.8,64.2,83.8,113.9
+,"The Hague (Den Haag), Netherlands",73.2,44.1,60.3,66.9,79.5,144.5
+,"Hamburg, Germany",73.2,32.2,55.0,63.2,76.8,139.6
+,"Cork, Ireland",73.1,46.9,61.4,73.8,77.5,106.2
+,"Lyon, France",73.1,23.2,50.9,78.6,66.3,120.6
+,"Aberdeen, United Kingdom",72.8,24.5,51.3,64.3,79.6,135.2
+,"Stuttgart, Germany",72.7,31.1,54.2,66.2,72.3,138.5
+,"Minneapolis, MN, United States",72.7,39.1,57.7,82.8,73.9,146.3
+,"Antwerp, Belgium",72.6,24.3,51.1,66.9,89.9,112.6
+,"Eindhoven, Netherlands",72.5,36.4,56.5,64.9,79.1,135.7
+,"Darmstadt, Germany",72.4,30.1,53.6,67.4,71.5,130.6
+,"Buffalo, NY, United States",72.4,32.0,54.4,74.2,79.1,120.2
+,"Cologne, Germany",72.3,29.6,53.3,66.1,71.2,123.0
+,"Galway, Ireland",72.3,52.8,63.6,69.3,79.8,89.4
+,"Graz, Austria",72.1,20.6,49.2,72.0,71.6,110.4
+,"Augsburg, Germany",72.1,25.6,51.4,65.9,72.3,133.3
+,"Maastricht, Netherlands",72.1,34.1,55.2,64.5,76.0,118.2
+,"Canberra, Australia",71.9,37.3,56.5,77.1,65.1,120.9
+,"Phoenix, AZ, United States",71.7,39.8,57.5,72.3,77.1,134.0
+,"Essen, Germany",71.7,18.4,48.0,66.1,69.3,135.1
+,"Saint Louis, MO, United States",71.6,31.2,53.6,84.4,67.9,151.5
+,"Baltimore, MD, United States",71.5,38.5,56.8,79.0,70.4,133.2
+,"Bristol, United Kingdom",71.4,42.6,58.6,63.8,79.5,110.4
+,"Melbourne, Australia",71.3,40.2,57.5,78.3,66.6,140.5
+,"Nashville, TN, United States",71.1,52.7,62.9,74.5,68.8,130.6
+,"Linz, Austria",71.0,22.7,49.5,72.4,73.5,115.7
+,"Gold Coast, Australia",70.9,41.4,57.8,78.4,72.4,109.3
+,"Tampa, FL, United States",70.9,51.9,62.4,73.7,75.8,131.4
+,"Dortmund, Germany",70.7,20.7,48.5,66.5,65.5,141.6
+,"Villach, Austria",70.7,22.3,49.2,70.3,66.4,107.1
+,"Hobart, Australia",70.7,32.0,53.5,78.9,68.5,127.8
+,"Charlotte, NC, United States",70.5,45.9,59.6,78.3,67.2,134.0
+,"Berlin, Germany",70.5,36.3,55.3,62.2,68.0,127.2
+,"Columbus, OH, United States",70.5,37.2,55.7,76.4,71.6,131.9
+,"Florence, Italy",70.4,31.0,52.9,71.8,75.1,73.0
+,"Detroit, MI, United States",70.4,38.0,56.0,76.2,69.4,102.0
+,"Pittsburgh, PA, United States",70.4,34.9,54.6,77.9,65.5,142.2
+,"Groningen, Netherlands",70.4,29.0,52.0,67.6,76.1,111.2
+,"Malmo, Sweden",70.3,26.8,50.9,71.1,72.9,124.0
+,"Nuremberg, Germany",70.2,23.6,49.5,63.8,71.6,141.2
+,"Manchester, United Kingdom",70.2,40.3,56.9,66.3,74.8,110.5
+,"Bonn, Germany",70.2,29.0,51.8,68.7,63.7,145.5
+,"Freiburg im Breisgau, Germany",69.9,28.4,51.4,66.7,64.9,114.3
+,"Orlando, FL, United States",69.8,44.0,58.3,76.2,73.2,135.5
+,"Kiel, Germany",69.7,20.6,47.8,67.7,68.2,126.9
+,"Madison, WI, United States",69.6,44.3,58.4,75.7,68.8,137.7
+,"Tampere, Finland",69.6,24.5,49.5,68.6,75.3,127.0
+,"Indianapolis, IN, United States",69.6,38.9,55.9,70.8,74.2,150.2
+,"Karlsruhe, Germany",69.5,27.7,50.9,67.1,65.4,122.1
+,"Bologna, Italy",69.4,27.5,50.7,70.3,72.6,80.7
+,"Brescia, Italy",69.4,23.0,48.7,68.8,77.3,78.0
+,"Dresden, Germany",69.3,20.5,47.6,64.6,69.4,129.4
+,"Victoria, Canada",69.3,40.3,56.4,80.9,64.8,96.8
+,"Surrey, Canada",69.1,39.5,55.9,69.9,64.4,95.5
+,"Bremen, Germany",69.0,22.7,48.4,66.7,66.5,133.6
+,"Mannheim, Germany",69.0,23.2,48.6,66.9,60.2,181.4
+,"Toulouse, France",69.0,21.9,48.0,75.6,64.7,111.7
+,"Hanover, Germany",68.9,23.0,48.5,64.1,66.4,121.5
+,"Birmingham, United Kingdom",68.6,32.1,52.4,62.1,69.3,118.6
+,"Raleigh, NC, United States",68.6,42.4,56.9,74.7,71.0,143.9
+,"Newcastle upon Tyne, United Kingdom",68.5,28.2,50.6,62.6,77.0,138.1
+,"Adelaide, Australia",68.3,33.2,52.7,75.2,67.8,118.4
+,"Gothenburg, Sweden",68.2,25.6,49.3,66.9,72.3,149.8
+,"Leipzig, Germany",68.1,21.5,47.4,65.6,62.7,124.7
+,"Las Vegas, NV, United States",68.1,39.0,55.1,65.4,77.7,136.6
+,"Leeds, United Kingdom",68.1,30.8,51.5,64.6,69.2,113.1
+,"Toronto, Canada",68.1,41.3,56.2,70.4,68.9,116.9
+,"Vancouver, Canada",68.0,48.7,59.4,75.0,68.2,107.1
+,"Perth, Australia",68.0,37.8,54.6,75.3,65.4,129.8
+,"Salt Lake City, UT, United States",67.9,40.6,55.7,69.7,69.8,139.5
+,"Boise, ID, United States",67.8,37.5,54.3,70.7,71.5,144.2
+,"Glasgow, United Kingdom",67.7,33.7,52.6,62.3,71.8,120.1
+,"Erlangen, Germany",67.7,23.8,48.1,68.3,61.0,185.8
+,"Kansas City, MO, United States",67.4,31.4,51.4,72.0,77.1,143.4
+,"Cardiff, United Kingdom",67.3,31.8,51.5,63.0,71.5,113.4
+,"Aachen, Germany",67.2,21.1,46.7,63.7,60.3,134.1
+,"Austin, TX, United States",66.9,51.2,59.9,67.7,73.4,151.8
+,"Liverpool, United Kingdom",66.7,27.6,49.3,59.9,75.2,122.0
+,"Seoul, South Korea",66.6,22.6,47.0,77.9,41.6,127.7
+,"Milwaukee, WI, United States",66.3,36.7,53.1,71.8,66.8,135.9
+,"Wichita, KS, United States",65.9,27.5,48.8,72.3,61.6,134.3
+,"Sliema, Malta",65.7,40.8,54.6,62.3,73.5,65.5
+,"Cleveland, OH, United States",65.7,38.2,53.5,73.8,62.6,117.9
+,"Modena, Italy",65.7,23.4,46.9,67.8,70.3,82.3
+,"Jacksonville, FL, United States",65.5,35.8,52.2,68.7,74.4,138.3
+,"Brisbane, Australia",65.4,38.9,53.6,75.8,65.5,138.0
+,"Saskatoon, Canada",65.3,25.3,47.5,71.8,67.1,105.0
+,"Verona, Italy",65.2,25.1,47.3,66.4,66.1,83.9
+,"Kitchener, Canada",65.1,33.2,50.9,71.6,68.3,105.1
+,"Nottingham, United Kingdom",65.0,26.4,47.8,62.0,65.7,125.3
+,"Houston, TX, United States",64.9,43.8,55.5,65.6,72.1,151.0
+,"Tucson, AZ, United States",64.9,31.8,50.2,68.4,70.5,136.6
+,"Belfast, United Kingdom",64.9,27.0,48.0,63.4,74.2,110.4
+,"Wellington, New Zealand",64.9,31.5,50.0,68.9,61.9,117.7
+,"Calgary, Canada",64.8,31.2,49.8,70.2,63.7,117.2
+,"Limassol, Cyprus",64.6,38.7,53.1,56.1,71.0,101.7
+,"Tallinn, Estonia",64.6,20.3,44.9,57.6,69.2,85.7
+,"Kelowna, Canada",64.6,34.2,51.1,71.5,62.3,111.0
+,"Padova, Italy",64.5,23.4,46.2,62.8,66.3,83.0
+,"Halifax, Canada",64.0,35.6,51.4,73.8,62.1,101.7
+,"Albuquerque, NM, United States",63.9,33.4,50.3,73.1,64.7,144.8
+,"San Antonio, TX, United States",63.8,36.2,51.6,66.2,63.4,143.7
+,"Auckland, New Zealand",63.7,32.6,49.9,66.4,59.9,118.3
+,"Genoa, Italy",63.7,20.4,44.4,66.6,65.9,88.7
+,"Cagliari, Italy",63.6,21.6,44.9,65.0,72.4,77.2
+,"Regina, Canada",63.3,25.2,46.4,70.6,69.1,112.6
+,"Rome, Italy",63.1,34.3,50.3,62.7,63.5,82.4
+,"Louisville, KY, United States",63.0,33.8,50.0,72.6,61.7,145.9
+,"Cincinnati, OH, United States",62.9,38.4,52.0,66.8,59.5,149.6
+,"Ottawa, Canada",62.7,34.0,49.9,67.0,63.1,142.3
+,"Trieste, Italy",62.5,19.9,43.6,61.6,63.7,81.3
+,"Dubai, United Arab Emirates",62.5,57.9,60.4,46.2,66.8,126.1
+,"Mississauga, Canada",62.5,40.5,52.7,62.3,60.8,108.7
+,"Edmonton, Canada",62.4,27.8,47.0,68.7,63.4,116.8
+,"Bergamo, Italy",61.6,20.4,43.3,60.7,65.5,99.7
+,"Saarbrucken, Germany",61.5,16.7,41.6,63.1,56.3,158.5
+,"Quebec City, Canada",61.0,22.6,43.9,68.0,60.0,123.7
+,"Turin, Italy",60.8,19.9,42.6,61.4,62.0,90.5
+,"Montreal, Canada",60.6,29.1,46.6,65.5,64.1,120.9
+,"Madrid, Spain",60.5,36.3,49.7,54.9,63.7,102.2
+,"Winnipeg, Canada",60.5,25.0,44.7,66.8,59.2,111.9
+,"Prague, Czech Republic",60.3,32.3,47.9,52.5,50.1,90.4
+,"Hamilton, Canada",60.2,32.9,48.1,65.0,64.4,110.9
+,"Christchurch, New Zealand",60.0,28.2,45.9,66.2,61.7,104.8
+,"Remagen, Germany",60.0,16.1,40.4,55.6,49.7,77.4
+,"Barcelona, Spain",59.8,36.6,49.4,55.4,63.2,91.2
+,"London, Canada",59.7,31.9,47.4,62.7,63.5,119.5
+,"Naples, Italy",59.6,25.2,44.3,58.0,59.6,75.7
+,"Valladolid, Spain",59.6,16.0,40.2,63.8,59.3,111.5
+,"Split, Croatia",59.2,25.8,44.3,52.3,65.8,70.0
+,"Nicosia, Cyprus",58.8,21.4,42.2,54.0,59.6,81.6
+,"Montevideo, Uruguay",58.5,15.4,39.3,57.0,58.9,56.3
+,"Athens, Greece",58.4,18.8,40.8,54.3,63.1,59.2
+,"Ljubljana, Slovenia",58.0,27.7,44.5,52.3,59.0,80.0
+,"Port of Spain, Trinidad And Tobago",57.7,24.8,43.1,60.7,53.8,34.1
+,"Bari, Italy",57.0,21.1,41.0,55.7,58.4,92.9
+,"Tartu, Estonia",57.0,15.5,38.5,49.5,63.8,93.4
+,"San Jose, Costa Rica",56.2,20.5,40.3,60.0,49.1,42.9
+,"Ras al-Khaimah, United Arab Emirates",55.8,23.6,41.5,48.8,52.6,89.3
+,"Riga, Latvia",55.6,14.8,37.4,47.9,59.6,77.2
+,"Larnaca, Cyprus",55.4,24.5,41.6,51.4,52.4,84.3
+,"Bratislava, Slovakia",55.1,22.8,40.7,52.0,50.0,77.8
+,"Taipei, Taiwan",55.0,19.9,39.4,67.0,34.4,76.9
+,"Lisbon, Portugal",54.8,39.3,47.9,50.1,52.5,58.6
+,"Abu Dhabi, United Arab Emirates",54.8,43.1,49.6,45.1,60.1,116.9
+,"Thessaloniki, Greece",54.6,14.5,36.7,49.7,61.2,59.3
+,"Zagreb, Croatia",54.3,20.6,39.3,51.2,54.1,94.6
+,"Rijeka, Croatia",54.2,16.9,37.6,49.1,57.1,76.3
+,"Warsaw, Poland",54.0,29.0,42.9,45.8,52.2,95.2
+,"Sharjah, United Arab Emirates",53.7,23.2,40.1,41.1,38.3,122.7
+,"Vilnius, Lithuania",53.6,20.3,38.8,45.4,58.3,92.4
+,"Brno, Czech Republic",53.6,22.8,39.9,50.0,43.5,87.7
+,"Kaunas, Lithuania",53.5,14.5,36.2,49.2,59.2,75.7
+,"Tokyo, Japan",53.4,25.8,41.1,60.4,35.3,117.5
+,"Kosice, Slovakia",52.5,21.6,38.7,50.7,48.1,74.7
+,"Malaga, Spain",52.2,30.6,42.6,49.1,57.9,80.8
+,"Budapest, Hungary",51.6,20.5,37.7,47.1,50.7,81.0
+,"Plzen, Czech Republic",51.3,15.4,35.3,50.2,42.5,106.8
+,"Alicante, Spain",51.3,22.6,38.5,51.1,53.8,99.0
+,"Ostrava, Czech Republic",50.8,16.9,35.7,49.9,43.5,89.1
+,"Seville (Sevilla), Spain",50.5,21.8,37.8,51.8,48.8,95.0
+,"Valencia, Spain",50.4,28.8,40.8,45.6,55.8,115.3
+,"Gdansk, Poland",50.2,21.8,37.5,41.6,51.5,92.4
+,"Tirana, Albania",50.1,18.7,36.1,49.2,49.3,43.0
+,"Porto, Portugal",50.1,30.0,41.1,45.9,47.0,65.5
+,"Krakow (Cracow), Poland",49.9,22.7,37.8,41.3,50.9,98.6
+,"Monterrey, Mexico",49.9,24.1,38.5,53.3,50.0,51.0
+,"Wroclaw, Poland",49.9,22.1,37.5,41.7,51.4,88.8
+,"Doha, Qatar",49.9,44.7,47.6,41.8,51.1,116.7
+,"Riyadh, Saudi Arabia",48.8,25.9,38.6,45.2,39.2,113.8
+,"Pecs, Hungary",48.8,13.3,33.0,48.2,44.6,55.2
+,"Buenos Aires, Argentina",48.7,16.8,34.5,45.9,61.8,44.3
+,"Beirut, Lebanon",48.3,20.0,35.7,39.7,47.1,31.4
+,"Belgrade, Serbia",48.0,21.9,36.4,41.5,52.4,63.0
+,"Olomouc, Czech Republic",47.9,17.3,34.3,48.1,36.0,88.7
+,"Coimbra, Portugal",47.9,21.3,36.1,47.2,42.9,72.5
+,"Panama City, Panama",47.4,28.2,38.9,53.1,43.6,43.9
+,"Moscow, Russia",47.3,34.1,41.4,39.9,47.0,77.3
+,"Lodz, Poland",47.3,15.5,33.1,40.4,48.7,94.9
+,"Braga, Portugal",47.2,21.3,35.7,45.9,43.8,68.2
+,"Poznan, Poland",46.9,18.9,34.4,39.1,47.2,101.5
+,"Bucharest, Romania",46.6,16.1,33.0,42.6,52.2,81.8
+,"Sofia, Bulgaria",46.4,18.2,33.9,44.4,46.5,92.3
+,"Mexico City, Mexico",46.0,28.4,38.2,49.0,47.4,47.6
+,"Varna, Bulgaria",45.9,13.2,31.3,46.4,45.6,68.9
+,"Kuwait City, Kuwait",45.8,23.8,36.0,34.7,57.9,123.7
+,"Debrecen, Hungary",45.8,15.7,32.4,44.4,43.8,68.6
+,"Manama, Bahrain",45.8,21.5,35.0,41.4,46.8,118.7
+,"Novi Sad, Serbia",45.3,14.6,31.6,40.7,44.5,59.1
+,"Szczecin, Poland",45.2,16.9,32.6,38.7,43.6,97.1
+,"Queretaro (Santiago de Querétaro), Mexico",45.2,18.6,33.4,50.2,42.9,54.7
+,"Szeged, Hungary",45.0,11.0,29.9,46.2,35.5,78.5
+,"Istanbul, Turkey",45.0,22.3,34.9,41.6,48.5,58.4
+,"Lublin, Poland",44.9,17.0,32.5,40.2,40.3,86.9
+,"Cluj-Napoca, Romania",44.8,17.5,32.7,41.7,48.7,80.9
+,"Katowice, Poland",44.7,14.9,31.4,41.1,44.3,99.4
+,"Cordoba, Argentina",44.3,10.7,29.3,41.9,44.3,41.4
+,"Phuket, Thailand",44.2,24.2,35.3,48.3,38.0,28.9
+,"Caracas, Venezuela",44.2,14.2,30.9,48.4,46.9,18.1
+,"Muscat, Oman",44.2,14.9,31.1,40.4,41.0,109.2
+,"Brasov, Romania",44.1,16.2,31.7,40.1,49.6,66.6
+,"Constanta, Romania",43.9,15.0,31.1,39.2,51.7,60.4
+,"Sarajevo, Bosnia And Herzegovina",43.4,12.2,29.5,42.8,36.6,63.4
+,"Addis Ababa, Ethiopia",43.3,22.5,34.1,45.4,23.7,10.8
+,"Jeddah (Jiddah), Saudi Arabia",43.2,13.5,30.0,38.5,34.6,139.7
+,"Yerevan, Armenia",42.9,17.1,31.4,36.8,42.5,33.9
+,"Merida, Mexico",42.7,15.4,30.6,45.2,43.9,34.5
+,"Amman, Jordan",42.7,9.9,28.1,37.2,43.1,46.8
+,"Podgorica, Montenegro",42.5,16.9,31.1,40.7,43.4,69.5
+,"Banja Luka, Bosnia And Herzegovina",41.9,10.3,27.9,40.8,39.9,60.7
+,"Timisoara, Romania",41.8,11.5,28.3,38.2,47.0,87.5
+,"Santiago, Chile",41.8,14.2,29.5,42.5,44.2,55.4
+,"Iasi, Romania",41.6,12.0,28.4,38.7,43.2,71.8
+,"Guadalajara, Mexico",41.5,20.0,32.0,45.4,42.0,44.0
+,"Pretoria, South Africa",41.5,13.6,29.1,32.8,31.8,97.0
+,"Bangkok, Thailand",41.2,19.9,31.7,44.3,27.7,49.0
+,"Izmir, Turkey",41.1,14.7,29.4,41.3,36.1,64.4
+,"Burgas, Bulgaria",41.1,13.1,28.6,41.7,43.0,69.0
+,"Yekaterinburg, Russia",40.9,16.4,30.0,37.1,42.1,55.3
+,"Ad Dammam, Saudi Arabia",40.8,12.7,28.3,40.2,30.3,129.9
+,"Plovdiv, Bulgaria",40.7,11.7,27.8,42.0,38.8,77.3
+,"San Salvador, El Salvador",40.7,22.1,32.4,43.5,34.3,22.6
+,"Saint Petersburg, Russia",40.6,19.2,31.1,36.9,37.2,70.7
+,"Bursa, Turkey",40.3,10.9,27.2,38.5,35.7,83.0
+,"Antalya, Turkey",40.0,13.2,28.1,36.3,41.0,65.6
+,"Johannesburg, South Africa",39.8,13.5,28.1,33.9,36.9,105.2
+,"Ankara, Turkey",39.5,15.2,28.7,38.6,39.6,61.9
+,"Tyumen, Russia",39.3,14.6,28.3,37.3,41.1,54.4
+,"Cape Town, South Africa",39.3,21.3,31.3,34.4,37.7,99.2
+,"Harare, Zimbabwe",39.1,12.1,27.1,37.0,37.8,28.4
+,"Sibiu, Romania",39.1,12.4,27.2,36.1,43.8,82.9
+,"Santo Domingo, Dominican Republic",39.0,15.5,28.5,37.8,36.6,39.0
+,"Shanghai, China",38.9,23.4,32.0,37.4,25.7,92.3
+,"Oradea, Romania",38.8,8.9,25.5,37.3,40.2,71.5
+,"Phnom Penh, Cambodia",38.6,13.2,27.3,44.2,28.6,24.2
+,"Skopje, North Macedonia",38.5,9.7,25.7,36.8,32.7,63.2
+,"Pattaya, Thailand",38.4,16.2,28.5,42.1,26.7,31.6
+,"Beijing, China",38.1,24.2,31.9,37.0,24.1,83.6
+,"Nis, Serbia",38.0,8.7,25.0,35.0,33.9,64.8
+,"Sao Paulo, Brazil",37.9,17.0,28.6,37.4,34.5,51.9
+,"Kuala Lumpur, Malaysia",37.5,13.9,27.0,43.8,29.3,95.3
+,"Windhoek, Namibia",37.2,15.2,27.4,34.7,35.8,69.0
+,"Suzhou, China",37.1,11.1,25.5,39.9,31.5,98.2
+,"Shenzhen, China",37.1,19.0,29.0,38.7,23.7,104.8
+,"Accra, Ghana",37.1,11.5,25.7,42.0,39.1,12.1
+,"Kazan, Russia",37.0,13.3,26.5,34.9,34.9,57.7
+,"Novosibirsk, Russia",36.9,12.4,26.0,35.0,33.0,57.0
+,"Tbilisi, Georgia",36.8,16.7,27.8,35.0,41.0,38.3
+,"Chisinau, Moldova",36.7,16.0,27.5,33.3,33.9,53.9
+,"Kaliningrad, Russia",36.7,11.3,25.4,36.0,33.9,58.5
+,"Krasnodar, Russia",36.5,12.4,25.8,31.9,36.5,59.7
+,"Ufa, Russia",36.5,10.5,24.9,34.4,38.0,55.3
+,"Samara, Russia",36.3,11.3,25.2,31.5,37.1,52.1
+,"Nizhny Novgorod, Russia",36.3,12.9,25.9,33.5,37.1,56.3
+,"Guangzhou, China",36.1,13.4,26.0,41.7,22.9,102.1
+,"Tomsk, Russia",35.9,10.8,24.8,36.0,28.5,55.0
+,"Lima, Peru",35.9,14.4,26.4,40.0,28.9,45.2
+,"Rostov-on-Don (Rostov-na-donu), Russia",35.9,11.4,25.0,32.9,37.4,61.2
+,"Casablanca, Morocco",35.8,13.6,26.0,35.3,30.3,40.7
+,"Manila, Philippines",35.7,15.5,26.7,40.4,26.2,34.6
+,"Colombo, Sri Lanka",35.4,10.5,24.3,50.2,26.8,17.9
+,"Hangzhou, China",35.4,13.4,25.6,37.9,24.6,98.1
+,"Sao Jose dos Campos, Brazil",35.1,11.7,24.7,36.8,31.9,58.8
+,"Chiang Mai, Thailand",35.0,10.8,24.2,42.9,21.3,53.5
+,"Medellin, Colombia",34.6,14.6,25.7,33.6,30.0,37.7
+,"Rabat, Morocco",34.6,13.3,25.1,34.9,30.3,53.8
+,"Durban, South Africa",34.6,11.3,24.2,31.1,29.5,98.6
+,"Florianopolis, Brazil",34.5,13.8,25.3,30.8,32.3,45.4
+,"Cebu, Philippines",34.4,12.5,24.7,41.2,22.6,30.9
+,"Baghdad, Iraq",34.3,11.1,24.0,29.3,31.5,46.4
+,"Gaborone, Botswana",34.2,7.3,22.2,32.1,32.5,38.4
+,"Rio de Janeiro, Brazil",34.0,12.6,24.5,32.0,30.7,36.0
+,"Campinas, Brazil",34.0,10.3,23.4,34.0,30.6,47.1
+,"Ulaanbaatar, Mongolia",33.7,17.0,26.3,38.3,25.4,36.4
+,"Penang, Malaysia",33.6,8.5,22.4,41.6,23.6,95.5
+,"Quito, Ecuador",33.5,10.9,23.5,36.5,31.3,51.2
+,"Erbil (Irbil), Iraq",33.4,9.8,22.9,32.2,31.2,42.5
+,"Perm, Russia",33.4,11.3,23.6,33.6,29.3,60.6
+,"Brasilia, Brazil",33.2,11.7,23.6,31.5,31.7,52.4
+,"Marrakech, Morocco",33.0,9.3,22.4,32.0,30.3,47.3
+,"Bogota, Colombia",32.9,12.9,24.0,33.3,28.5,34.3
+,"Porto Alegre, Brazil",32.8,10.2,22.8,32.4,28.6,39.8
+,"Belo Horizonte, Brazil",32.6,9.7,22.4,30.2,28.1,38.7
+,"Nairobi, Kenya",32.6,11.5,23.2,33.4,30.7,33.6
+,"Baku, Azerbaijan",32.5,11.2,23.0,30.6,36.0,40.9
+,"Kiev (Kyiv), Ukraine",32.3,13.9,24.1,31.9,31.0,56.4
+,"Minsk, Belarus",32.3,12.0,23.3,31.0,36.3,69.9
+,"Almaty, Kazakhstan",32.3,15.7,24.9,30.5,34.1,52.5
+,"Fortaleza, Brazil",32.1,7.4,21.1,29.7,29.3,41.9
+,"Sousse, Tunisia",31.9,6.4,20.6,35.7,19.8,35.2
+,"Salvador, Brazil",31.7,9.5,21.8,29.2,30.5,33.2
+,"Curitiba, Brazil",31.6,9.6,21.8,29.3,28.5,47.0
+,"Cali, Colombia",31.5,10.6,22.2,33.0,25.7,34.5
+,"Dnipro, Ukraine",31.4,11.0,22.3,28.5,36.7,42.0
+,"Tunis, Tunisia",30.9,6.6,20.1,35.8,19.1,36.3
+,"Batumi, Ajara, Georgia",30.8,12.5,22.7,30.4,32.1,45.3
+,"Cuenca, Ecuador",30.8,9.7,21.4,33.5,27.2,47.7
+,"Nanjing, China",30.7,11.1,22.0,33.2,21.6,102.8
+,"Lusaka, Zambia",30.5,13.0,22.7,32.0,23.5,26.0
+,"Jakarta, Indonesia",30.1,12.8,22.4,36.0,18.0,39.6
+,"Odessa (Odesa), Ukraine",29.9,7.1,19.8,29.1,27.6,44.2
+,"Asuncion, Paraguay",29.6,11.5,21.5,28.8,28.1,46.0
+,"Algiers, Algeria",29.6,5.4,18.8,35.5,18.3,34.6
+,"Lviv, Ukraine",29.5,11.2,21.3,29.4,25.6,51.1
+,"Tashkent, Uzbekistan",29.4,14.5,22.8,31.0,25.1,48.9
+,"Dar es Salaam, Tanzania",29.4,13.5,22.3,27.7,23.0,23.8
+,"Astana (Nur-Sultan), Kazakhstan",29.1,11.9,21.4,28.8,30.8,57.7
+,"Bishkek, Kyrgyzstan",29.1,12.6,21.7,28.0,26.2,38.1
+,"Pristina, Kosovo (Disputed Territory)",29.1,8.5,19.9,29.6,25.6,63.6
+,"Ho Chi Minh City, Vietnam",28.6,13.3,21.8,32.1,17.3,42.5
+,"Surabaya, Indonesia",28.3,12.3,21.2,35.7,14.6,29.0
+,"Hanoi, Vietnam",28.1,10.0,20.1,32.5,18.4,46.3
+,"Chengdu, China",28.0,9.3,19.7,33.0,20.7,97.8
+,"Kampala, Uganda",28.0,12.0,20.9,29.2,25.9,18.0
+,"Kharkiv, Ukraine",27.1,5.4,17.4,27.2,23.9,48.5
+,"Da Nang, Vietnam",26.5,11.0,19.6,31.1,16.0,35.1
+,"Mumbai, India",26.4,18.6,22.9,25.3,24.4,59.9
+,"Kigali, Rwanda",26.3,16.1,21.7,24.1,23.0,23.7
+,"Dhaka, Bangladesh",25.8,3.8,16.0,29.2,20.0,37.6
+,"Bandung, Indonesia",25.3,5.8,16.6,34.1,13.8,30.5
+,"Gurgaon, India",24.7,9.0,17.7,26.3,23.1,97.1
+,"Kathmandu, Nepal",24.0,3.9,15.1,24.3,18.2,29.9
+,"Tehran, Iran",23.5,11.7,18.3,21.9,16.2,23.6
+,"Cairo, Egypt",23.1,5.6,15.3,23.0,21.4,22.2
+,"Pune, India",22.9,7.2,16.0,25.5,21.2,121.0
+,"Delhi, India",22.9,7.0,15.8,22.4,22.6,69.7
+,"Bangalore, India",22.1,9.4,16.4,25.0,19.0,120.0
+,"Noida, India",22.0,5.8,14.8,24.4,17.3,114.8
+,"Alexandria, Egypt",21.9,3.2,13.6,22.4,18.7,18.2
+,"Hyderabad, India",21.4,6.3,14.7,23.0,19.2,151.8
+,"Islamabad, Pakistan",21.3,6.0,14.5,19.0,18.3,37.7
+,"Ahmedabad, India",21.3,4.5,13.8,23.8,20.2,64.5
+,"Karachi, Pakistan",21.1,3.6,13.3,19.5,17.7,25.6
+,"Chennai, India",20.9,5.1,13.8,24.3,15.4,105.4
+,"Rawalpindi, Pakistan",20.9,4.4,13.5,21.2,16.8,23.7
+,"Vadodara, India",20.8,3.7,13.2,24.1,15.0,73.9
+,"Chandigarh, India",20.5,4.9,13.6,22.2,17.1,75.9
+,"Lahore, Pakistan",20.4,3.7,12.9,17.4,19.6,25.0
+,"Tripoli, Libya",20.3,6.7,14.3,24.6,15.1,40.9
+,"Thiruvananthapuram, India",19.8,4.2,12.9,24.1,15.4,37.5
+,"Bhubaneswar, India",19.4,4.0,12.6,22.1,14.6,58.3
+,"Kolkata, India",19.2,4.1,12.5,23.0,14.6,67.2
+,"Kochi, India",18.8,4.5,12.5,22.5,12.8,72.0
+,"Surat, India",18.8,7.3,13.7,21.8,16.3,53.5
+,"Jaipur, India",18.8,3.9,12.2,20.7,15.5,75.7
+,"Indore, India",18.3,4.3,12.1,20.6,13.1,66.7
+,"Lucknow (Lakhnau), India",17.9,3.9,11.7,19.7,13.3,65.1
+,"Coimbatore, India",17.6,3.9,11.5,21.7,13.1,62.8

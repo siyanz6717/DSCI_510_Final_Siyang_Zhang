@@ -1,0 +1,286 @@
+City,Cost_Index,Rent_Index,Quality_Index,Safety_Index,Region,Geo_Arbitrage_Score
+"Zurich, Switzerland",121.3,71.8,199.1,76.5,Europe,1.6413849958779885
+"Geneva, Switzerland",118.5,66.6,195.9,70.6,Europe,1.6531645569620255
+"Basel, Switzerland",114.7,48.8,202.6,68.8,Europe,1.7663469921534436
+"Lausanne, Switzerland",113.4,52.3,195.8,71.9,North America,1.72663139329806
+"Bern, Switzerland",110.2,50.4,202.8,74.6,Europe,1.840290381125227
+"Reykjavik, Iceland",101.1,50.6,192.5,76.4,Other,1.904055390702275
+"New York, NY, United States",100.0,100.0,135.5,48.9,North America,1.355
+"San Francisco, CA, United States",97.8,80.3,166.3,39.4,North America,1.7004089979550103
+"Honolulu, HI, United States",96.8,63.7,161.8,52.3,North America,1.6714876033057853
+"Seattle, WA, United States",92.3,61.4,183.0,44.7,North America,1.982665222101842
+"Oslo, Norway",90.9,39.8,179.0,65.7,Other,1.969196919691969
+"Tel Aviv-Yafo, Israel",90.9,45.6,162.3,74.0,Other,1.7854785478547854
+"Washington, DC, United States",88.1,70.4,172.4,40.2,North America,1.9568671963677642
+"Singapore, Singapore",87.8,74.0,157.9,77.5,Asia,1.7984054669703873
+"San Jose, CA, United States",87.7,75.4,170.7,52.0,North America,1.9464082098061573
+"London, United Kingdom",87.4,70.2,140.4,44.4,Europe,1.6064073226544622
+"Boston, MA, United States",87.2,78.9,181.1,60.3,North America,2.076834862385321
+"Copenhagen, Denmark",86.8,46.9,205.2,74.2,Other,2.3640552995391704
+"Trondheim, Norway",86.0,30.6,196.9,78.9,Other,2.2895348837209304
+"Bergen, Norway",84.5,29.1,203.2,76.2,Other,2.4047337278106506
+"Amsterdam, Netherlands",84.4,60.6,207.2,74.4,Europe,2.4549763033175354
+"San Diego, CA, United States",83.0,77.1,183.1,60.6,North America,2.206024096385542
+"Stavanger, Norway",82.7,37.8,208.5,76.1,Other,2.521160822249093
+"Los Angeles, CA, United States",82.3,65.1,135.0,45.9,North America,1.6403402187120293
+"Luxembourg, Luxembourg",81.6,55.8,207.6,72.2,Other,2.544117647058824
+"Sacramento, CA, United States",80.2,49.7,176.8,50.8,North America,2.2044887780548628
+"Miami, FL, United States",80.1,70.1,157.7,46.7,North America,1.9687890137328339
+"Philadelphia, PA, United States",79.7,45.3,159.9,34.7,North America,2.0062735257214555
+"Stockholm, Sweden",79.6,36.3,173.6,53.5,Europe,2.180904522613065
+"Paris, France",79.4,42.6,143.4,42.0,Europe,1.8060453400503778
+"Haifa, Israel",79.1,24.3,167.1,71.8,Other,2.1125158027812896
+"New Orleans, LA, United States",78.2,41.2,158.7,32.9,North America,2.0294117647058822
+"Utrecht, Netherlands",77.8,44.7,215.3,79.0,Europe,2.7673521850899747
+"Dublin, Ireland",77.1,60.8,155.5,45.9,Other,2.0168612191958495
+"Chicago, IL, United States",76.8,56.3,160.6,34.5,North America,2.0911458333333335
+"Munich, Germany",76.6,47.2,204.2,79.0,Europe,2.6657963446475197
+"Atlanta, GA, United States",76.1,44.9,176.8,35.7,North America,2.323258869908016
+"Portland, OR, United States",76.1,49.0,182.9,41.4,North America,2.4034165571616297
+"Denver, CO, United States",76.0,51.1,173.4,52.0,North America,2.281578947368421
+"Hong Kong, Hong Kong (China)",75.7,64.6,131.6,78.6,Asia,1.738441215323646
+"Rotterdam, Netherlands",75.4,41.4,211.7,74.0,Europe,2.8076923076923075
+"Frankfurt, Germany",75.2,36.9,204.5,55.5,Europe,2.7194148936170213
+"Helsinki, Finland",75.0,30.3,200.6,74.7,Other,2.6746666666666665
+"Sydney, Australia",75.0,54.5,183.0,66.1,Oceania,2.44
+"Vienna, Austria",74.9,29.7,208.3,71.8,Other,2.781041388518024
+"Dusseldorf, Germany",74.8,34.1,201.6,67.3,Europe,2.695187165775401
+"Cambridge, United Kingdom",74.5,46.2,174.6,60.7,Europe,2.3436241610738255
+"Milan, Italy",74.2,42.6,125.6,46.5,Europe,1.6927223719676547
+"Brussels, Belgium",74.2,33.7,154.7,43.9,Other,2.084905660377358
+"Colorado Springs, CO, United States",73.8,40.3,183.4,58.5,North America,2.4850948509485096
+"Dallas, TX, United States",73.8,46.2,179.2,48.3,North America,2.4281842818428183
+"Gent, Belgium",73.5,27.2,205.1,76.0,Other,2.7904761904761903
+"Edinburgh, United Kingdom",73.3,38.3,195.2,69.8,Europe,2.6630286493860846
+"The Hague (Den Haag), Netherlands",73.2,44.1,228.7,80.0,Europe,3.12431693989071
+"Hamburg, Germany",73.2,32.2,195.9,60.2,Europe,2.6762295081967213
+"Cork, Ireland",73.1,46.9,179.9,63.1,Other,2.4610123119015053
+"Lyon, France",73.1,23.2,161.1,39.9,Europe,2.2038303693570453
+"Stuttgart, Germany",72.7,31.1,204.8,70.5,Europe,2.8170563961485557
+"Minneapolis, MN, United States",72.7,39.1,180.4,44.4,North America,2.4814305364511693
+"Antwerp, Belgium",72.6,24.3,165.0,60.1,Other,2.272727272727273
+"Eindhoven, Netherlands",72.5,36.4,219.2,79.5,Europe,3.023448275862069
+"Buffalo, NY, United States",72.4,32.0,182.2,51.4,North America,2.5165745856353587
+"Cologne, Germany",72.3,29.6,174.4,55.5,Europe,2.4121715076071926
+"Graz, Austria",72.1,20.6,181.0,72.8,Other,2.5104022191400834
+"Canberra, Australia",71.9,37.3,190.1,72.3,Oceania,2.6439499304589704
+"Phoenix, AZ, United States",71.7,39.8,156.5,47.2,North America,2.182705718270572
+"Saint Louis, MO, United States",71.6,31.2,182.0,30.0,North America,2.5418994413407825
+"Baltimore, MD, United States",71.5,38.5,164.6,27.9,North America,2.302097902097902
+"Bristol, United Kingdom",71.4,42.6,169.3,57.0,Europe,2.3711484593837535
+"Melbourne, Australia",71.3,40.2,190.8,55.8,Oceania,2.6760168302945306
+"Nashville, TN, United States",71.1,52.7,176.8,51.9,North America,2.4866385372714492
+"Gold Coast, Australia",70.9,41.4,187.6,53.0,Oceania,2.6459802538787023
+"Tampa, FL, United States",70.9,51.9,185.0,55.5,North America,2.609308885754584
+"Villach, Austria",70.7,22.3,185.8,71.7,Other,2.628005657708628
+"Hobart, Australia",70.7,32.0,192.1,66.5,Oceania,2.717114568599717
+"Charlotte, NC, United States",70.5,45.9,184.4,50.8,North America,2.615602836879433
+"Berlin, Germany",70.5,36.3,175.5,55.5,Europe,2.4893617021276597
+"Columbus, OH, United States",70.5,37.2,184.7,50.8,North America,2.6198581560283687
+"Detroit, MI, United States",70.4,38.0,129.1,27.2,North America,1.833806818181818
+"Pittsburgh, PA, United States",70.4,34.9,182.3,61.4,North America,2.5894886363636362
+"Groningen, Netherlands",70.4,29.0,209.2,78.4,Europe,2.9715909090909087
+"Nuremberg, Germany",70.2,23.6,205.5,70.2,Europe,2.927350427350427
+"Manchester, United Kingdom",70.2,40.3,157.3,44.1,Europe,2.240740740740741
+"Orlando, FL, United States",69.8,44.0,185.5,52.0,North America,2.657593123209169
+"Madison, WI, United States",69.6,44.3,183.0,62.6,North America,2.6293103448275863
+"Indianapolis, IN, United States",69.6,38.9,181.4,39.7,North America,2.60632183908046
+"Bologna, Italy",69.4,27.5,143.4,51.2,Europe,2.0662824207492796
+"Victoria, Canada",69.3,40.3,180.0,60.4,North America,2.5974025974025974
+"Toulouse, France",69.0,21.9,174.1,47.0,Europe,2.5231884057971015
+"Birmingham, United Kingdom",68.6,32.1,162.0,36.9,Europe,2.361516034985423
+"Raleigh, NC, United States",68.6,42.4,184.5,52.0,North America,2.6895043731778427
+"Newcastle upon Tyne, United Kingdom",68.5,28.2,192.3,60.5,Europe,2.807299270072993
+"Adelaide, Australia",68.3,33.2,190.8,67.0,Oceania,2.793557833089312
+"Gothenburg, Sweden",68.2,25.6,204.0,54.2,Europe,2.9912023460410557
+"Las Vegas, NV, United States",68.1,39.0,160.1,44.5,North America,2.350954478707783
+"Leeds, United Kingdom",68.1,30.8,176.1,54.9,Europe,2.585903083700441
+"Toronto, Canada",68.1,41.3,163.0,56.4,North America,2.3935389133627023
+"Vancouver, Canada",68.0,48.7,178.6,57.3,North America,2.626470588235294
+"Perth, Australia",68.0,37.8,190.5,58.0,Oceania,2.801470588235294
+"Salt Lake City, UT, United States",67.9,40.6,169.2,64.1,North America,2.4918998527245946
+"Boise, ID, United States",67.8,37.5,182.9,62.6,North America,2.6976401179941005
+"Glasgow, United Kingdom",67.7,33.7,192.1,54.9,Europe,2.8375184638109303
+"Kansas City, MO, United States",67.4,31.4,184.5,41.4,North America,2.737388724035608
+"Austin, TX, United States",66.9,51.2,183.4,55.5,North America,2.741405082212257
+"Liverpool, United Kingdom",66.7,27.6,194.1,51.5,Europe,2.910044977511244
+"Seoul, South Korea",66.6,22.6,158.6,75.3,Asia,2.3813813813813813
+"Milwaukee, WI, United States",66.3,36.7,173.2,33.8,North America,2.61236802413273
+"Cleveland, OH, United States",65.7,38.2,169.8,36.4,North America,2.584474885844749
+"Jacksonville, FL, United States",65.5,35.8,185.2,45.2,North America,2.827480916030534
+"Brisbane, Australia",65.4,38.9,190.5,61.8,Oceania,2.9128440366972477
+"Houston, TX, United States",64.9,43.8,169.7,36.8,North America,2.6147919876733434
+"Tucson, AZ, United States",64.9,31.8,183.5,45.3,North America,2.827426810477658
+"Belfast, United Kingdom",64.9,27.0,181.7,52.0,Europe,2.7996918335901384
+"Wellington, New Zealand",64.9,31.5,187.7,66.4,Oceania,2.892141756548536
+"Calgary, Canada",64.8,31.2,177.0,62.1,North America,2.7314814814814814
+"Limassol, Cyprus",64.6,38.7,158.5,60.9,Other,2.453560371517028
+"Tallinn, Estonia",64.6,20.3,182.9,78.3,Other,2.8312693498452015
+"Kelowna, Canada",64.6,34.2,169.7,37.8,North America,2.626934984520124
+"Halifax, Canada",64.0,35.6,174.2,60.8,North America,2.721875
+"Albuquerque, NM, United States",63.9,33.4,175.9,29.0,North America,2.752738654147105
+"San Antonio, TX, United States",63.8,36.2,182.5,54.0,North America,2.8605015673981193
+"Auckland, New Zealand",63.7,32.6,178.4,49.5,Oceania,2.8006279434850865
+"Genoa, Italy",63.7,20.4,159.5,55.1,Europe,2.5039246467817895
+"Regina, Canada",63.3,25.2,152.2,46.5,North America,2.404423380726698
+"Rome, Italy",63.1,34.3,147.2,52.6,Europe,2.3328050713153723
+"Cincinnati, OH, United States",62.9,38.4,182.2,50.5,North America,2.896661367249602
+"Ottawa, Canada",62.7,34.0,194.2,70.1,North America,3.0972886762360443
+"Trieste, Italy",62.5,19.9,165.2,72.4,Europe,2.6431999999999998
+"Dubai, United Arab Emirates",62.5,57.9,175.4,83.9,Other,2.8064
+"Mississauga, Canada",62.5,40.5,168.1,56.0,North America,2.6896
+"Edmonton, Canada",62.4,27.8,173.2,53.2,North America,2.7756410256410255
+"Quebec City, Canada",61.0,22.6,176.6,77.6,North America,2.8950819672131147
+"Turin, Italy",60.8,19.9,142.4,48.1,Europe,2.342105263157895
+"Montreal, Canada",60.6,29.1,169.4,67.2,North America,2.7953795379537953
+"Madrid, Spain",60.5,36.3,180.9,71.2,Europe,2.9900826446280995
+"Winnipeg, Canada",60.5,25.0,151.2,39.2,North America,2.4991735537190083
+"Prague, Czech Republic",60.3,32.3,168.9,75.4,Other,2.800995024875622
+"Hamilton, Canada",60.2,32.9,149.0,43.7,North America,2.475083056478405
+"Christchurch, New Zealand",60.0,28.2,186.5,55.3,Oceania,3.1083333333333334
+"Barcelona, Spain",59.8,36.6,147.4,47.9,Europe,2.464882943143813
+"London, Canada",59.7,31.9,168.9,46.2,North America,2.829145728643216
+"Naples, Italy",59.6,25.2,114.8,37.9,Europe,1.9261744966442953
+"Split, Croatia",59.2,25.8,172.9,69.9,Other,2.920608108108108
+"Nicosia, Cyprus",58.8,21.4,151.0,67.3,Other,2.568027210884354
+"Montevideo, Uruguay",58.5,15.4,134.5,43.5,Other,2.299145299145299
+"Athens, Greece",58.4,18.8,125.3,44.8,Other,2.1455479452054793
+"Ljubljana, Slovenia",58.0,27.7,174.7,78.2,Other,3.012068965517241
+"San Jose, Costa Rica",56.2,20.5,117.7,44.4,Other,2.094306049822064
+"Riga, Latvia",55.6,14.8,157.9,62.4,Other,2.8399280575539567
+"Bratislava, Slovakia",55.1,22.8,156.1,69.5,Other,2.8330308529945554
+"Taipei, Taiwan",55.0,19.9,146.7,83.5,Other,2.667272727272727
+"Lisbon, Portugal",54.8,39.3,152.6,67.4,Other,2.7846715328467155
+"Abu Dhabi, United Arab Emirates",54.8,43.1,179.7,89.0,Other,3.2791970802919708
+"Thessaloniki, Greece",54.6,14.5,130.8,47.9,Other,2.3956043956043955
+"Zagreb, Croatia",54.3,20.6,176.2,78.6,Other,3.2449355432780846
+"Rijeka, Croatia",54.2,16.9,181.2,76.5,Other,3.343173431734317
+"Warsaw, Poland",54.0,29.0,149.8,74.6,Other,2.774074074074074
+"Sharjah, United Arab Emirates",53.7,23.2,147.5,84.4,Other,2.7467411545623834
+"Vilnius, Lithuania",53.6,20.3,178.8,70.1,Other,3.3358208955223883
+"Brno, Czech Republic",53.6,22.8,169.8,75.4,Other,3.1679104477611943
+"Kaunas, Lithuania",53.5,14.5,168.1,63.3,Other,3.142056074766355
+"Tokyo, Japan",53.4,25.8,176.5,74.9,Asia,3.305243445692884
+"Malaga, Spain",52.2,30.6,177.2,69.0,Europe,3.3946360153256703
+"Budapest, Hungary",51.6,20.5,139.4,66.1,Other,2.701550387596899
+"Plzen, Czech Republic",51.3,15.4,198.5,74.7,Other,3.869395711500975
+"Valencia, Spain",50.4,28.8,205.5,65.4,Europe,4.0773809523809526
+"Gdansk, Poland",50.2,21.8,150.5,68.7,Other,2.99800796812749
+"Tirana, Albania",50.1,18.7,95.5,59.8,Other,1.906187624750499
+"Porto, Portugal",50.1,30.0,175.7,66.8,Other,3.5069860279441114
+"Krakow (Cracow), Poland",49.9,22.7,146.7,75.2,Other,2.939879759519038
+"Monterrey, Mexico",49.9,24.1,116.5,51.9,South/Latin America,2.334669338677355
+"Wroclaw, Poland",49.9,22.1,148.1,74.9,Other,2.967935871743487
+"Doha, Qatar",49.9,44.7,167.0,84.5,Other,3.346693386773547
+"Riyadh, Saudi Arabia",48.8,25.9,156.9,75.4,Other,3.2151639344262297
+"Buenos Aires, Argentina",48.7,16.8,117.8,37.0,South/Latin America,2.4188911704312113
+"Beirut, Lebanon",48.3,20.0,86.2,53.2,Other,1.7846790890269153
+"Belgrade, Serbia",48.0,21.9,120.9,62.1,Other,2.5187500000000003
+"Panama City, Panama",47.4,28.2,115.9,52.9,Other,2.4451476793248945
+"Moscow, Russia",47.3,34.1,122.4,64.8,Other,2.5877378435517975
+"Lodz, Poland",47.3,15.5,149.9,62.2,Other,3.1691331923890065
+"Poznan, Poland",46.9,18.9,157.0,72.2,Other,3.3475479744136463
+"Bucharest, Romania",46.6,16.1,130.6,71.5,Other,2.8025751072961373
+"Sofia, Bulgaria",46.4,18.2,141.9,61.2,Other,3.058189655172414
+"Mexico City, Mexico",46.0,28.4,92.7,33.3,South/Latin America,2.015217391304348
+"Varna, Bulgaria",45.9,13.2,145.7,65.6,Other,3.174291938997821
+"Kuwait City, Kuwait",45.8,23.8,139.5,71.2,Other,3.0458515283842797
+"Manama, Bahrain",45.8,21.5,171.5,81.8,Other,3.7445414847161573
+"Novi Sad, Serbia",45.3,14.6,137.0,61.2,Other,3.024282560706402
+"Queretaro (Santiago de Querétaro), Mexico",45.2,18.6,157.5,62.2,South/Latin America,3.4845132743362828
+"Istanbul, Turkey",45.0,22.3,123.5,51.9,Other,2.7444444444444445
+"Cluj-Napoca, Romania",44.8,17.5,162.0,77.6,Other,3.616071428571429
+"Caracas, Venezuela",44.2,14.2,77.6,18.6,Other,1.7556561085972848
+"Muscat, Oman",44.2,14.9,187.6,81.3,Other,4.244343891402715
+"Sarajevo, Bosnia And Herzegovina",43.4,12.2,127.0,55.2,Other,2.9262672811059907
+"Jeddah (Jiddah), Saudi Arabia",43.2,13.5,175.0,75.0,Other,4.050925925925926
+"Yerevan, Armenia",42.9,17.1,115.8,78.1,Other,2.699300699300699
+"Amman, Jordan",42.7,9.9,121.5,62.6,Other,2.8454332552693207
+"Banja Luka, Bosnia And Herzegovina",41.9,10.3,135.9,65.0,Europe,3.2434367541766114
+"Timisoara, Romania",41.8,11.5,166.6,74.5,Other,3.985645933014354
+"Santiago, Chile",41.8,14.2,110.7,35.8,Other,2.648325358851675
+"Iasi, Romania",41.6,12.0,137.5,65.6,Other,3.3052884615384612
+"Guadalajara, Mexico",41.5,20.0,116.9,37.6,South/Latin America,2.816867469879518
+"Pretoria, South Africa",41.5,13.6,141.3,18.1,Africa,3.404819277108434
+"Bangkok, Thailand",41.2,19.9,94.1,61.8,Asia,2.2839805825242716
+"Izmir, Turkey",41.1,14.7,150.4,66.8,Other,3.659367396593674
+"Yekaterinburg, Russia",40.9,16.4,98.3,57.0,Other,2.4034229828850857
+"Ad Dammam, Saudi Arabia",40.8,12.7,164.2,71.8,Other,4.0245098039215685
+"Plovdiv, Bulgaria",40.7,11.7,155.5,74.5,Other,3.82063882063882
+"Saint Petersburg, Russia",40.6,19.2,122.0,62.4,Other,3.0049261083743843
+"Bursa, Turkey",40.3,10.9,173.4,71.3,Other,4.302729528535981
+"Antalya, Turkey",40.0,13.2,160.1,70.7,Other,4.0024999999999995
+"Johannesburg, South Africa",39.8,13.5,139.0,19.1,Africa,3.492462311557789
+"Ankara, Turkey",39.5,15.2,141.3,60.5,Other,3.577215189873418
+"Cape Town, South Africa",39.3,21.3,158.8,26.3,Africa,4.040712468193385
+"Santo Domingo, Dominican Republic",39.0,15.5,89.7,33.0,Other,2.3000000000000003
+"Shanghai, China",38.9,23.4,123.1,73.5,Asia,3.16452442159383
+"Skopje, North Macedonia",38.5,9.7,114.5,53.9,Other,2.9740259740259742
+"Pattaya, Thailand",38.4,16.2,96.6,54.1,Asia,2.515625
+"Beijing, China",38.1,24.2,107.4,74.9,Asia,2.8188976377952755
+"Sao Paulo, Brazil",37.9,17.0,95.8,30.0,South/Latin America,2.5277044854881265
+"Kuala Lumpur, Malaysia",37.5,13.9,129.0,40.9,Other,3.44
+"Windhoek, Namibia",37.2,15.2,156.6,32.4,Other,4.209677419354838
+"Shenzhen, China",37.1,19.0,148.1,75.1,Asia,3.9919137466307273
+"Kazan, Russia",37.0,13.3,122.6,70.0,Other,3.3135135135135134
+"Novosibirsk, Russia",36.9,12.4,96.8,54.5,Other,2.6233062330623307
+"Tbilisi, Georgia",36.8,16.7,116.4,74.6,Other,3.16304347826087
+"Chisinau, Moldova",36.7,16.0,124.0,58.1,Other,3.3787465940054493
+"Kaliningrad, Russia",36.7,11.3,156.7,70.0,Other,4.26975476839237
+"Krasnodar, Russia",36.5,12.4,124.2,66.1,Other,3.4027397260273973
+"Nizhny Novgorod, Russia",36.3,12.9,148.2,72.2,Other,4.082644628099174
+"Guangzhou, China",36.1,13.4,142.0,71.2,Asia,3.933518005540166
+"Lima, Peru",35.9,14.4,89.3,29.8,Other,2.487465181058496
+"Casablanca, Morocco",35.8,13.6,94.3,44.8,Other,2.634078212290503
+"Manila, Philippines",35.7,15.5,52.8,35.4,Other,1.4789915966386553
+"Colombo, Sri Lanka",35.4,10.5,55.8,57.4,Other,1.576271186440678
+"Chiang Mai, Thailand",35.0,10.8,137.1,77.9,Asia,3.917142857142857
+"Medellin, Colombia",34.6,14.6,118.5,46.3,South/Latin America,3.4248554913294798
+"Durban, South Africa",34.6,11.3,150.7,19.6,Africa,4.355491329479769
+"Florianopolis, Brazil",34.5,13.8,132.9,53.6,South/Latin America,3.8521739130434782
+"Cebu, Philippines",34.4,12.5,73.4,49.6,Other,2.1337209302325584
+"Rio de Janeiro, Brazil",34.0,12.6,79.8,24.8,South/Latin America,2.347058823529412
+"Campinas, Brazil",34.0,10.3,132.6,34.2,South/Latin America,3.9
+"Quito, Ecuador",33.5,10.9,123.0,36.4,Other,3.671641791044776
+"Brasilia, Brazil",33.2,11.7,141.5,41.3,South/Latin America,4.262048192771084
+"Bogota, Colombia",32.9,12.9,94.3,33.3,South/Latin America,2.8662613981762917
+"Porto Alegre, Brazil",32.8,10.2,118.7,29.3,South/Latin America,3.6189024390243905
+"Belo Horizonte, Brazil",32.6,9.7,119.5,40.4,South/Latin America,3.665644171779141
+"Nairobi, Kenya",32.6,11.5,94.8,40.6,Other,2.907975460122699
+"Baku, Azerbaijan",32.5,11.2,112.8,69.9,Other,3.4707692307692306
+"Kiev (Kyiv), Ukraine",32.3,13.9,117.1,54.5,Europe,3.625386996904025
+"Minsk, Belarus",32.3,12.0,138.1,50.1,Other,4.275541795665635
+"Almaty, Kazakhstan",32.3,15.7,99.4,46.9,Other,3.077399380804954
+"Curitiba, Brazil",31.6,9.6,142.0,39.5,South/Latin America,4.493670886075949
+"Dnipro, Ukraine",31.4,11.0,101.3,46.3,Europe,3.2261146496815285
+"Tunis, Tunisia",30.9,6.6,109.2,51.5,Other,3.533980582524272
+"Cuenca, Ecuador",30.8,9.7,149.9,54.1,Other,4.866883116883117
+"Jakarta, Indonesia",30.1,12.8,75.5,47.2,Other,2.5083056478405314
+"Odessa (Odesa), Ukraine",29.9,7.1,110.3,44.5,Europe,3.688963210702341
+"Lviv, Ukraine",29.5,11.2,134.3,62.8,Europe,4.552542372881356
+"Tashkent, Uzbekistan",29.4,14.5,135.0,74.1,Other,4.591836734693878
+"Astana (Nur-Sultan), Kazakhstan",29.1,11.9,126.5,66.8,Other,4.347079037800687
+"Ho Chi Minh City, Vietnam",28.6,13.3,77.5,49.6,Asia,2.7097902097902096
+"Hanoi, Vietnam",28.1,10.0,96.2,66.2,Asia,3.4234875444839856
+"Kharkiv, Ukraine",27.1,5.4,118.8,52.8,Europe,4.383763837638376
+"Mumbai, India",26.4,18.6,84.6,55.9,Asia,3.2045454545454546
+"Dhaka, Bangladesh",25.8,3.8,64.4,37.8,Other,2.496124031007752
+"Gurgaon, India",24.7,9.0,115.5,46.0,Asia,4.676113360323887
+"Kathmandu, Nepal",24.0,3.9,73.9,63.3,Other,3.079166666666667
+"Tehran, Iran",23.5,11.7,68.2,42.7,Other,2.902127659574468
+"Cairo, Egypt",23.1,5.6,76.1,50.0,Africa,3.2943722943722937
+"Pune, India",22.9,7.2,150.6,58.7,Asia,6.576419213973799
+"Delhi, India",22.9,7.0,89.3,40.9,Asia,3.8995633187772927
+"Bangalore, India",22.1,9.4,137.2,46.0,Asia,6.20814479638009
+"Noida, India",22.0,5.8,124.6,44.9,Asia,5.663636363636363
+"Alexandria, Egypt",21.9,3.2,88.3,55.2,Africa,4.031963470319635
+"Hyderabad, India",21.4,6.3,163.0,57.4,Asia,7.616822429906542
+"Islamabad, Pakistan",21.3,6.0,133.5,68.6,Other,6.267605633802817
+"Ahmedabad, India",21.3,4.5,126.0,68.5,Asia,5.915492957746479
+"Karachi, Pakistan",21.1,3.6,79.1,42.5,Other,3.7488151658767768
+"Chennai, India",20.9,5.1,135.5,60.0,Asia,6.483253588516747
+"Lahore, Pakistan",20.4,3.7,97.4,63.1,Other,4.774509803921569
+"Thiruvananthapuram, India",19.8,4.2,122.0,61.0,Asia,6.161616161616162
+"Kolkata, India",19.2,4.1,104.6,53.1,Asia,5.447916666666667
+"Jaipur, India",18.8,3.9,141.0,65.3,Asia,7.5
+"Coimbatore, India",17.6,3.9,131.0,62.0,Asia,7.4431818181818175
