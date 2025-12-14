@@ -77,7 +77,7 @@ Run the visualization script to generate charts using `CMD` or `Git Bash`.
 python src/visualize_results.py
 ```
 
-#### Results
+### Results
 After running the code, you can check results in `results` folder.
 
 
