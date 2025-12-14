@@ -49,30 +49,30 @@ Once the virtual environment is activated, install all external libraries (`Requ
 You will need to create the same directory as the repo does in order to run the script.
 
 ### Run the script
-Run the script in order of `get_daya.py`, `clean_data.py`, `run_analysis.py`, `visualize_results.ipynb`.
+Run the script in order of `get_daya.py`, `clean_data.py`, `run_analysis.py`, `visualize_results.ipynb` using `CMD` or `Git Bash`.
 
 #### Data Collection
-Run the scraper to fetch raw data from Numbeo. 
+Run the scraper to fetch raw data from Numbeo using `CMD` or `Git Bash`. 
 
 ```Bash
 python src/get_data.py
 ```
 
 #### Data Cleaning
-Run the cleaning script to process the raw files.
+Run the cleaning script to process the raw files using `CMD` or `Git Bash`.
 
 ```Bash
 python src/clean_data.py
 ```
 
 #### Analysis
-Run the analysis script to calculate the "Geo-Arbitrage Score" and perform statistical analyses.
+Run the analysis script to calculate the "Geo-Arbitrage Score" and perform statistical analyses using `CMD` or `Git Bash`.
 
 ```Bash
 python src/run_analysis.py
 ```
 #### Visualization
-Run the visualization script to generate charts. 
+Run the visualization script to generate charts using `CMD` or `Git Bash`. 
 ```Bash
 python src/visualize_results.py
 ```
