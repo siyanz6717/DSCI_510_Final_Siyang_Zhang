@@ -51,7 +51,33 @@ You will need to create the same directory as the repo does in order to run the 
 ### Run the script
 Run the script in order of `get_daya.py`, `clean_data.py`, `run_analysis.py`, `visualize_results.ipynb`.
 
-### Find the results in the created 'results' folder
+#### Data Collection
+Run the scraper to fetch raw data from Numbeo. 
+
+```Bash
+python src/get_data.py
+```
+
+#### Data Cleaning
+Run the cleaning script to process the raw files.
+
+```Bash
+python src/clean_data.py
+```
+
+#### Analysis
+Run the analysis script to calculate the "Geo-Arbitrage Score" and perform statistical analyses.
+
+```Bash
+python src/run_analysis.py
+```
+#### Visualization
+Run the visualization script to generate charts. 
+```Bash
+python src/visualize_results.py
+```
+
+## Find the results in the created 'results' folder
 After running the code, you can check results in `results` folder.
 
 
