@@ -12,7 +12,8 @@ In the post-pandemic era, the decoupling of work and location has led to a surge
 We collect data by scraping **Numbeo.com**, extracting indices for Cost of Living, Rent, Safety, Healthcare, and Pollution for 285 cities. By merging and analyzing these datasets, we calculate a custom "Geo-Arbitrage Score" to rank global cities based on their value proposition. The analysis also includes regional segmentation and outlier detection to investigate whether expensive cities are inherently safer or better to live in.
 
 ## Project Structure
-```DSCI_510_Final_Siyang_Zhang/
+```
+DSCI_510_Final_Siyang_Zhang/
 ├── README.md
 ├── requirements.txt
 ├── data/
