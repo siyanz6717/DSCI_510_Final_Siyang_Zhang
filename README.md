@@ -30,7 +30,7 @@ We collect data by scraping **Numbeo.com**, extracting indices for Cost of Livin
   └── visualize_results.ipynb
 ```
 
-## Installation and Setup
+## Installation, Setup, and Execution
 
 ### Prerequisites
 Ensure you have `Python 3.8+` installed as well as the libraries in `requirement.txt`.
@@ -77,7 +77,7 @@ Run the visualization script to generate charts using `CMD` or `Git Bash`.
 python src/visualize_results.py
 ```
 
-## Find the results in the created 'results' folder
+#### Results
 After running the code, you can check results in `results` folder.
 
 
