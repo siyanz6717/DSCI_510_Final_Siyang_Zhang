@@ -27,7 +27,6 @@ DSCI_510_Final_Siyang_Zhang/
   ├── clean_data.py
   ├── get_data.py
   ├── run_analysis.py
-  ├── utils/
   └── visualize_results.ipynb
 ```
 
